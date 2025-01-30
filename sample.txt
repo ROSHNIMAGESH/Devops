@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-"This is branch A" 
-=======
-"This is branch B" 
->>>>>>> B
+"This is branch C" 
